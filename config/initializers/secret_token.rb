@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Treebook::Application.config.secret_token = 'd3bef9d99e9f74307cea575216651b5de7307d0192a0393d4deb159c9fed6d4e774ec805b6095a795cb127b93e45cb2f45108ed0b254169387c35c0f3b575896'
+Treebook::Application.config.secret_token = '975c75f6efaef71f6b610db2fc75f37ecf9bdbdb192ea2fa149a2073e8a7fe6c201b2b7dcf35fd39316d564215a51a935a94b463ab25f532c6433cb5d7ed87f8'
